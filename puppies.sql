@@ -2,7 +2,7 @@
 
 --CREATE DATABASE puppies;
 
-\c salesforce;
+--\c salesforce;
 
 CREATE TABLE pups (
   ID SERIAL PRIMARY KEY,
