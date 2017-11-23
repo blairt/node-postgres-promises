@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS puppies;
+--DROP DATABASE IF EXISTS puppies;
 
-CREATE DATABASE puppies;
+--CREATE DATABASE puppies;
 
-\c puppies;
+\c salesforce;
 
 CREATE TABLE pups (
   ID SERIAL PRIMARY KEY,
